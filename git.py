@@ -7,7 +7,7 @@ def provjera_broja (broj):
 if __name__ == "__main___":
     try:
         prvi_broj = int(input("Unesite prvi broj: "))
-        print(provjera broja(prvi broj))
+        print(provjera_broja(prvi_broj))
         drugi_broj = int(input("Unesite drugi broj: "))
         print(provjera_broja    (drugi_broj))
     except ValueError:
